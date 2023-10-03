@@ -1,0 +1,8 @@
+H:\RFP296\GenericsProblem\GenericsProblem\bin\Debug\GenericsProblem.exe.config
+H:\RFP296\GenericsProblem\GenericsProblem\bin\Debug\GenericsProblem.exe
+H:\RFP296\GenericsProblem\GenericsProblem\bin\Debug\GenericsProblem.pdb
+H:\RFP296\GenericsProblem\GenericsProblem\obj\Debug\GenericsProblem.csproj.AssemblyReference.cache
+H:\RFP296\GenericsProblem\GenericsProblem\obj\Debug\GenericsProblem.csproj.SuggestedBindingRedirects.cache
+H:\RFP296\GenericsProblem\GenericsProblem\obj\Debug\GenericsProblem.csproj.CoreCompileInputs.cache
+H:\RFP296\GenericsProblem\GenericsProblem\obj\Debug\GenericsProblem.exe
+H:\RFP296\GenericsProblem\GenericsProblem\obj\Debug\GenericsProblem.pdb
