@@ -37,7 +37,6 @@ namespace GenericsProblem
                         Console.WriteLine("Minimum integer: " + minInt);
                         float minFloat = FindMinimum.FindMin(3.14f, 2.71f, 3.5f);
                         Console.WriteLine("Minimum float: " + minFloat);
-
                         string minString = FindMinimum.FindMin("apple", "banana", "cherry");
                         Console.WriteLine("Minimum string: " + minString);
                         break;
